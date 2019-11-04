@@ -18,7 +18,7 @@ micro.exe --registry=consul --api_namespace=mu.micro.book.web  api --handler=web
 cusmicro.exe  --registry=consul --api_namespace=mu.micro.book.web  api --handler=web 
 part3中有postman调用代码，导入即可测试  
 这里的代码与参考教程第7章有差异，教程中使用的服务发现是etcd，我们本地测试使用的consul，  
-在micro 1.5版本中，默认registry不再包含consul，而是移到plugins中了，  
+在micro 1.15版本中，默认registry不再包含consul，而是移到plugins中了，  
 所以必须手动在代码中指定registry使用consul才可正常使用，否则启动参数指定--registry=consul时程序不会报错，而是显示micro的默认提示信息  
 
 consul ui  
