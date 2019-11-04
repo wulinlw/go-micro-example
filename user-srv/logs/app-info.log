@@ -1,0 +1,12 @@
+{"level":"info","ts":1572619902.7230475,"caller":"zap/zap.go:49","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1572619902.7440479,"caller":"user-srv/main.go:102","msg":"[initCfg] 配置","cfg":{"name":"mu.micro.book.srv.user","version":"","address":"127.0.0.1","port":9090}}
+{"level":"info","ts":1572772865.8719518,"caller":"zap/zap.go:49","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1572772865.8819551,"caller":"user-srv/main.go:102","msg":"[initCfg] 配置","cfg":{"name":"mu.micro.book.srv.user","version":"","address":"127.0.0.1","port":9090}}
+{"level":"info","ts":1572774641.4456842,"caller":"zap/zap.go:49","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1572774641.452842,"caller":"user-srv/main.go:102","msg":"[initCfg] 配置","cfg":{"name":"mu.micro.book.srv.user","version":"","address":"127.0.0.1","port":9090}}
+{"level":"info","ts":1572776766.6084833,"caller":"zap/zap.go:49","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1572776766.6134796,"caller":"user-srv/main.go:102","msg":"[initCfg] 配置","cfg":{"name":"mu.micro.book.srv.user","version":"","address":"127.0.0.1","port":9090}}
+{"level":"info","ts":1572778522.7427683,"caller":"zap/zap.go:49","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1572778522.7517674,"caller":"user-srv/main.go:102","msg":"[initCfg] 配置","cfg":{"name":"mu.micro.book.srv.user","version":"","address":"127.0.0.1","port":9090}}
+{"level":"info","ts":1572778647.949939,"caller":"zap/zap.go:49","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1572778647.9559367,"caller":"user-srv/main.go:102","msg":"[initCfg] 配置","cfg":{"name":"mu.micro.book.srv.user","version":"","address":"127.0.0.1","port":9090}}
